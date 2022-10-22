@@ -6,3 +6,4 @@ This project is the application of content learned in the Data Science Training 
 	src="C:/My_Development/Projetos/Image-Gallery/projeto-01-v3.jpg"
 	alt="Charging electric car"
 	width"450"
+>
