@@ -30,7 +30,9 @@ já é uma realidade e qualquer inovação que possibilite reduzir emissões pol
 <strong>Conclusão</strong>
 
 
-<img src="C:/My_Development/Projetos/Project-01-v3-Energy-Consumption-Eletric-Cars/Project-01-v3-Energy-Consumption-Eletric-Cars/projeto-01-v3.jpg" alt="Veículo elétrico carregando" width="450">
+<img src="C:/My_Development/Projetos/Project-01-v3-Energy-Consumption-Eletric-Cars/Project-01-v3-Energy-Consumption-Eletric-Cars/projeto-01-v3.jpeg" alt="Veículo elétrico carregando">
+
+
 
 
 
