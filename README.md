@@ -17,9 +17,9 @@ Cientista de Dados from <strong>Data Science Academy</strong>.</p>
 	de mudança de hábitos para o bem do meio ambiente. O estrago gerado pelos combustíveis fósseis<br>
 	já é uma realidade e qualquer inovação que possibilite reduzir emissões poluentes são bem vindas</p>
 
-	<li><strong>Data Source</strong></li>
+	<li>Data Source</li>
 
-	<li><strong>Conclusion</strong></li>
+	<li>Conclusion</li>
 </ol>
 
 <img
