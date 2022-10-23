@@ -4,7 +4,7 @@
 # Projeto do curso de Linguagem R com Azure Machine Learning da Data Science Academy
 
 # Diretório de trabalho:
-setwd("C:/My_Development/Projetos/Energy-Consumption-Eletric-Cars/Energy-Consumption-Eletric-Cars")
+setwd("C:/My_Development/Projetos/Project-01-v3-Energy-Consumption-Eletric-Cars/Project-01-v3-Energy-Consumption-Eletric-Cars")
 
 # Pacotes Necessários:
 library(readxl)
