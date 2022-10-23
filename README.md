@@ -7,15 +7,15 @@ Cientista de Dados from <strong>Data Science Academy</strong>.</p>
 
 <ol>
 	<li><strong>Definition</strong></li>
-	<p>O projeto trata de fazer previsões sobre o consumo de energia de um determinado automóvel<br>
+	O projeto trata de fazer previsões sobre o consumo de energia de um determinado automóvel<br>
 	a partir de um conjunto de dados com diversas informações sobre algumas marcas de veículos <br>
 	elétricos. Tais informações são como o número de lugares, torque, capacidade da bateria e o <br>
-	resultado é em consumo médio de energia.</p>
+	resultado é em consumo médio de energia.
 
 	<li><strong>Motivation</strong></li>
-	<p>Já se percebe que os carros elétricos não são mais algo do futuro ou modismo. Trata-se <br>
+	Já se percebe que os carros elétricos não são mais algo do futuro ou modismo. Trata-se <br>
 	de mudança de hábitos para o bem do meio ambiente. O estrago gerado pelos combustíveis fósseis<br>
-	já é uma realidade e qualquer inovação que possibilite reduzir emissões poluentes são bem vindas</p>
+	já é uma realidade e qualquer inovação que possibilite reduzir emissões poluentes são bem vindas
 
 	<li>Data Source</li>
 
