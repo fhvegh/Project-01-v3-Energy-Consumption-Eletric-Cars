@@ -12,7 +12,7 @@ Cientista de Dados from <strong>Data Science Academy</strong>.</p>
 	<li><strong>Conclusão</strong></li>
 </ol>
 
-<strong>Definição></strong>
+<strong>Definição</strong>
 <p>Já se percebe que os carros elétricos não são mais algo do futuro ou modismo. Trata-se <br>
 de mudança de hábitos para o bem do meio ambiente. O estrago gerado pelos combustíveis fósseis<br>
 já é uma realidade e qualquer inovação que possibilite reduzir emissões poluentes são bem vindas</p>
@@ -23,9 +23,14 @@ de mudança de hábitos para o bem do meio ambiente. O estrago gerado pelos comb
 já é uma realidade e qualquer inovação que possibilite reduzir emissões poluentes são bem vindas.
 
 
-<img
-	src="projeto-01-v3.jpg"
->
+<strong>Fonte de dados</storng>
+
+
+
+<strong>Conclusão</strong>
+
+
+<img src="projeto-01-v3.jpg" alt="Veículo elétrico carregando" width=450>
 
 
 
