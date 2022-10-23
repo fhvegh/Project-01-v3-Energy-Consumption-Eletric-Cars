@@ -12,22 +12,22 @@ Cientista de Dados from <strong>Data Science Academy</strong>.</p>
 	<li><strong>Conclusão</strong></li>
 </ol>
 
-<strong>Definição</strong>
+<strong>1. Definição</strong>
 <p>Já se percebe que os carros elétricos não são mais algo do futuro ou modismo. Trata-se <br>
 de mudança de hábitos para o bem do meio ambiente. O estrago gerado pelos combustíveis fósseis<br>
 já é uma realidade e qualquer inovação que possibilite reduzir emissões poluentes são bem vindas</p>
 
-<strong>Motivação</strong>
+<strong>2. Motivação</strong>
 <p>Já se percebe que os carros elétricos não são mais algo do futuro ou modismo. Trata-se <br>
 de mudança de hábitos para o bem do meio ambiente. O estrago gerado pelos combustíveis fósseis<br>
 já é uma realidade e qualquer inovação que possibilite reduzir emissões poluentes são bem vindas.
 
 
-<strong>Fonte de dados</storng>
+<strong>3. Fonte de dados</storng>
 <p>Para a construção do projeto utilizou-se o dataset <em>https://data.mendeley.com/datasets/tb9yrptydn/2</em></p>
 
 
-<strong>Conclusão</strong>
+<strong>4. Conclusão</strong>
 <p>A conclusão do projeto consta no scritp Modelagem</p>
 
 <img src="projeto-01-v3.jpg" alt="Veículo elétrico carregando">
