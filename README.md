@@ -24,11 +24,11 @@ já é uma realidade e qualquer inovação que possibilite reduzir emissões pol
 
 
 <strong>Fonte de dados</storng>
-
+<p>Para a construção do projeto utilizou-se o dataset <em>https://data.mendeley.com/datasets/tb9yrptydn/2</em></p>
 
 
 <strong>Conclusão</strong>
-
+<p>A conclusão do projeto consta no scritp Modelagem</p>
 
 <img src="projeto-01-v3.jpg" alt="Veículo elétrico carregando">
 
