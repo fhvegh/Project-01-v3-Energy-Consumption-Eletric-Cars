@@ -6,21 +6,22 @@ This project is the application of content learned in the Data Science Training 
 Cientista de Dados from <strong>Data Science Academy</strong>.</p>
 
 <ol>
-	<li><strong>Definition</strong></li>
-	O projeto trata de fazer previsões sobre o consumo de energia de um determinado automóvel<br>
-	a partir de um conjunto de dados com diversas informações sobre algumas marcas de veículos <br>
-	elétricos. Tais informações são como o número de lugares, torque, capacidade da bateria e o <br>
-	resultado é em consumo médio de energia.
-
-	<li><strong>Motivation</strong></li>
-	Já se percebe que os carros elétricos não são mais algo do futuro ou modismo. Trata-se <br>
-	de mudança de hábitos para o bem do meio ambiente. O estrago gerado pelos combustíveis fósseis<br>
-	já é uma realidade e qualquer inovação que possibilite reduzir emissões poluentes são bem vindas
-
-	<li>Data Source</li>
-
-	<li>Conclusion</li>
+	<li><strong>Definição</strong></li>
+	<li><strong>Motivação</strong></li>
+	<li><strong>Fonte de Dados</strong></li>
+	<li><strong>Conclusão</strong></li>
 </ol>
+
+<strong>Definição></strong>
+<p>Já se percebe que os carros elétricos não são mais algo do futuro ou modismo. Trata-se <br>
+de mudança de hábitos para o bem do meio ambiente. O estrago gerado pelos combustíveis fósseis<br>
+já é uma realidade e qualquer inovação que possibilite reduzir emissões poluentes são bem vindas</p>
+
+<strong>Motivação</strong>
+<p>Já se percebe que os carros elétricos não são mais algo do futuro ou modismo. Trata-se <br>
+de mudança de hábitos para o bem do meio ambiente. O estrago gerado pelos combustíveis fósseis<br>
+já é uma realidade e qualquer inovação que possibilite reduzir emissões poluentes são bem vindas.
+
 
 <img
 	src="projeto-01-v3.jpg"
