@@ -12,6 +12,10 @@ Cientista de Dados from <strong>Data Science Academy</strong>.</p>
 	<li>Conclusion</li>
 </ol>
 
+<img
+	src="C:/My_Development/Projetos/Project-01-v3-Energy-Consumption-Eletric-Cars/Project-01-v3-Energy-Consumption-Eletric-Cars/projeto-01-v3.jpg"
+>
+
 
 
 
