@@ -24,7 +24,6 @@ Este conjunto de dados lista todos os carros totalmente elétricos do mercado.</
 <strong>3. Conclusão</strong>
 <p>A conclusão do projeto consta no scritp Modelagem</p>
 
-<img src="projeto-01-v3.jpg" alt="Veículo elétrico carregando">
 
 
 
